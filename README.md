@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marseph4 , please call me Mars
+- 👋 Hi, I’m @Marseph4 , you can call me Mars
 - 👀 I’m interested in coding, robotics and cybersecurity 
 - 🌱 I’m currently learning JAVA as my first serious-taken coding languaje
 
